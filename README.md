@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Dinksraw
-- 👀 I’m interested in App developement 
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on Social Apps
-- 📫 How to reach me dinksraw011@gmail.com
+# 👋 Hi, I'm Dinksiraw
 
-<!---
-Dinksraw/Dinksraw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Computer Science Graduate** passionate about building practical, real-world software.
+
+🚀 I enjoy turning problems into simple, efficient solutions and learning new technologies quickly.
+
+### 🔧 What I'm interested in
+
+* 📱 App & Web Development
+* 🌐 Building useful, real-world applications
+* 🤝 Collaborating on social and community-focused apps
+* 🧠 Problem-solving and learning new technologies
+
+### 🌱 Currently
+
+Exploring modern technologies and improving my skills by building practical projects.
+
+### 🤝 Let's Collaborate
+
+I'm open to collaborating on **social apps, web applications, and innovative software projects**.
+
+### 📫 Contact
+
+📧 **[dinksraw011@gmail.com](mailto:dinksraw011@gmail.com)**
